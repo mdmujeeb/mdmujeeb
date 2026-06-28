@@ -8,8 +8,8 @@
   <img src="https://ceg.annauniv.edu/assets/images/CEG_col1.png" alt="CEG Logo" width="100" />
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/25/77/23/257723448da092ec369360624d2abbac.gif" alt="Banner" width="100%" />
+<p align="center">8
+  <img src="https://i.pinimg.com/originals/25/77/23/257723448da092ec369360624d2abbac.gif" alt="Banner" width="80%" />
 </p>
 
 ## 🛠️ Languages & Tools
