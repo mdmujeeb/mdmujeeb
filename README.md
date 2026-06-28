@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm mujju</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm mujeeb</h1>
 <h3 align="center">Student at College of Engineering Guindy Chennai</h3>
 
 <img src="https://i.pinimg.com/originals/25/77/23/257723448da092ec369360624d2abbac.gif" alt="Banner" width="100%" />
