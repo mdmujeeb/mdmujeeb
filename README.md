@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey Guys <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="28px" width="28px"> I'm Mujeeb
+  Hey Guys I'm Mujeeb <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="28px" width="28px">
 </h1>
 
 <h3 align="center">Student at College of Engineering Guindy, Chennai</h3>
